@@ -8,6 +8,6 @@ A simple React app to search books using the Google Books API.
 - Responsive design.
 
 ## Live Demo
-[View Here](https://YOUR-DEPLOYED-LINK)
+[View Here]([https://YOUR-DEPLOYED-LINK](https://book-searchweb.netlify.app/))
 
 ## Installation
